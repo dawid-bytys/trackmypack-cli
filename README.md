@@ -3,6 +3,8 @@ A cli package with allows you to track your package from a terminal
 
 supported carriers: Orlen, DPD, UPS, Poczta Polska, FedEx, GLS, InPost, press
 
+![Terminal](https://i.imgur.com/b10YW1m.png)
+
 ### 1. Installation
 npm
 ```zsh
