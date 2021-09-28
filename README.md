@@ -1,5 +1,5 @@
 # trackmypack-cli
-A cli package with allows you to track your package from a terminal
+A cli package with allows you to track your package from a terminal (made it specifically for myself)
 
 supported carriers: Orlen, DPD, UPS, Poczta Polska, FedEx, GLS, InPost, press
 
